@@ -41,3 +41,4 @@ After scanning all ports, the program prints "Scan complete."
 **OUTPUT**
 
 ![Screenshot 2024-11-30 124616](https://github.com/user-attachments/assets/3c1eef23-8d07-4cf6-9a92-625b71570b66)
+
